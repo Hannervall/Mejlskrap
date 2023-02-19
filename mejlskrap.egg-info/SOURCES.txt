@@ -1,0 +1,7 @@
+setup.py
+mejlskrap.egg-info/PKG-INFO
+mejlskrap.egg-info/SOURCES.txt
+mejlskrap.egg-info/dependency_links.txt
+mejlskrap.egg-info/entry_points.txt
+mejlskrap.egg-info/requires.txt
+mejlskrap.egg-info/top_level.txt
