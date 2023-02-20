@@ -12,6 +12,7 @@ setup(
         'scrapy',
         'colorama',
         'pyfiglet'
+        'time'
     ],
     entry_points={
         'console_scripts': [

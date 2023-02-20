@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 mejlskrap.egg-info/PKG-INFO
 mejlskrap.egg-info/SOURCES.txt
