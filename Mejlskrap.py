@@ -47,6 +47,8 @@ def ascii_art_title():
 
 ascii_art_title()
 
+time.sleep(1)
+
 def domai():
     output_choice = input("Vill du skriva ut eller spara resultatet? (skriv ut/spara)\n")
     url = input("Vilken domän vill du skrapa?\n")
