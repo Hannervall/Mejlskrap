@@ -4,6 +4,7 @@ import re
 from colorama import init, Fore
 from scrapy.crawler import CrawlerProcess
 from pyfiglet import Figlet
+import time
 
 class Skrapspindel(scrapy.Spider):
     name = 'skrapspindel'
