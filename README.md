@@ -13,7 +13,7 @@
 ### <p>Användning</p>
 
 <p>1. Öppna en terminal i projektets rotmapp.</p>
-<p>2. Kör följande kommando: mejlskrap.</p>
+<p>2. Kör följande kommando: 'python3 mejlskrap.py'.</p>
 <p>3. Följ instruktionerna i programmet.</p>
 
 ## Licens
